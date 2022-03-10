@@ -1,0 +1,18 @@
+{
+  "name": "nodejsapp",
+  "version": "0.0.1",
+  "description": "This is the app that i'll create with the basics of node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "mubashirlone",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "ejs-lint": "^1.2.1",
+    "express": "^4.17.3",
+    "path": "^0.12.7"
+  }
+}
